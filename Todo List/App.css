@@ -1,0 +1,64 @@
+h1 {
+  background-color: black;
+  color: white;
+  padding: 1vh;
+  text-align: center;
+}
+input {
+  border-color: rgb(65, 64, 64);
+  border-width: 3px;
+  margin: 10px 20px;
+  padding: 7px 5px;
+  text-decoration: solid;
+}
+button {
+  background-color: black;
+  color: white;
+  padding: 6px 6px;
+  margin: 5px;
+  border-radius: 3px;
+}
+
+.hr {
+  background-color: beige;
+}
+
+.render {
+  justify-content: space-between;
+  display: flex;
+  margin-bottom: 1.25rem;
+  width: 66.666667%;
+  align-items: center;
+}
+
+.titleShown {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+.descShown {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  font-weight: 500;
+}
+
+.list {
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+  margin-bottom: 1.25rem;
+}
+
+.btn {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  border-radius: 0.25rem;
+  font-weight: 700;
+  background-color: rgba(73, 22, 2, 0.906);
+}
+
+.btn-1 {
+  background-color: rgba(73, 22, 2, 0.906);
+}
